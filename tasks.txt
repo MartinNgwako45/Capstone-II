@@ -1,0 +1,5 @@
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 2021-11-27, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 2019-10-25, Yes
+nji, the guy is tough, every thing concerning programing is ABC TO HIM, 2021-12-11, 2021-09-06, No
+peter, the guy is powerful, python is looks easy but tough, 2021-08-9, 2021-09-05, No
+ben, Houseing Plan, building of a house, 2021-11-17, 2021-07-26, No
